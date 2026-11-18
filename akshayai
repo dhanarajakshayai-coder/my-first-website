@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>bookworld-home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <h1>bookworld</h1>
+    <p>your online book store</p>
+    </header>
+    <nav>
+        <a href="index.html">home</a>
+        <a href="books.html">books</a>
+        <a href="contact.html">contact</a>
+    </nav>
+    <section>
+        <h2>welcome to bookworld</h2>
+        <p>
+            welcome to bookworld ,your online destination for books in technology, fiction,education and more
+        </p>
+    </section>
+    <article>
+        <h2>special offer</h2>
+        <p>
+            get up to  20% discount on selected books.
+            explore our collection and find your favorite books.
+        </p>
+    </article> 
+    <footer>
+        <p>2026 bookworld online store</p>
+    </footer>
+</body>
+</html>
